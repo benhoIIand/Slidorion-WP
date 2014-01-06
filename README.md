@@ -1,0 +1,2 @@
+Slidorion for WordPress
+=======================
